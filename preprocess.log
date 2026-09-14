@@ -1,0 +1,29 @@
+Pasada 1/2: ajustando vocabularios y scaler...
+  lote 1, 2,227 filas vistas...
+Total filas: 2,227
+  src_ip: 65 categorias -> emb_dim=50
+  dst_ip: 283 categorias -> emb_dim=142
+  src_mac: 20 categorias -> emb_dim=50
+  dst_mac: 23 categorias -> emb_dim=50
+  src_port: 1204 categorias -> emb_dim=602
+  dst_port: 29 categorias -> emb_dim=50
+  protocol: 24 categorias -> emb_dim=50
+  ip_version: 2 categorias -> emb_dim=50
+  vlan_id: 1 categorias -> emb_dim=50
+  tunnel_id: 1 categorias -> emb_dim=50
+  expiration_id: 2 categorias -> emb_dim=50
+  application_name: 25 categorias -> emb_dim=50
+  application_category_name: 8 categorias -> emb_dim=50
+  application_is_guessed: 2 categorias -> emb_dim=50
+  application_confidence: 3 categorias -> emb_dim=50
+  requested_server_name: 60 categorias -> emb_dim=50
+  client_fingerprint: 13 categorias -> emb_dim=50
+  server_fingerprint: 9 categorias -> emb_dim=50
+  user_agent: 4 categorias -> emb_dim=50
+  content_type: 4 categorias -> emb_dim=50
+Pasada 2/2: transformando y acumulando en memoria...
+  lote 1, 2,227/2,227 filas...
+Ordenando por timestamp y dividiendo train/test (80/20, sin mezclar)...
+  train: 1,781 filas -> /home/jproanio/Desktop/Modelo_VAE/processed/train.npz
+  test: 446 filas -> /home/jproanio/Desktop/Modelo_VAE/processed/test.npz
+Preprocesamiento completo.

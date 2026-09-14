@@ -1,0 +1,185 @@
+device: cpu
+Dim. del vector de entrada (embeddings + numericas escaladas): 1701
+epoch   1  train loss (-ELBO/obs) = 2028.7059  test loss (-ELBO/obs) = 2036.1595
+  -> nuevo mejor test loss (2036.1595), guardado en vae_best.pt
+epoch   2  train loss (-ELBO/obs) = 1874.4972  test loss (-ELBO/obs) = 1985.3264
+  -> nuevo mejor test loss (1985.3264), guardado en vae_best.pt
+epoch   3  train loss (-ELBO/obs) = 1823.7699  test loss (-ELBO/obs) = 1945.2062
+  -> nuevo mejor test loss (1945.2062), guardado en vae_best.pt
+epoch   4  train loss (-ELBO/obs) = 1790.9109  test loss (-ELBO/obs) = 1914.1820
+  -> nuevo mejor test loss (1914.1820), guardado en vae_best.pt
+epoch   5  train loss (-ELBO/obs) = 1765.2526  test loss (-ELBO/obs) = 1888.6485
+  -> nuevo mejor test loss (1888.6485), guardado en vae_best.pt
+epoch   6  train loss (-ELBO/obs) = 1744.2879  test loss (-ELBO/obs) = 1867.5617
+  -> nuevo mejor test loss (1867.5617), guardado en vae_best.pt
+epoch   7  train loss (-ELBO/obs) = 1726.9368  test loss (-ELBO/obs) = 1848.2958
+  -> nuevo mejor test loss (1848.2958), guardado en vae_best.pt
+epoch   8  train loss (-ELBO/obs) = 1711.9051  test loss (-ELBO/obs) = 1830.6336
+  -> nuevo mejor test loss (1830.6336), guardado en vae_best.pt
+epoch   9  train loss (-ELBO/obs) = 1698.2519  test loss (-ELBO/obs) = 1818.7291
+  -> nuevo mejor test loss (1818.7291), guardado en vae_best.pt
+epoch  10  train loss (-ELBO/obs) = 1686.2683  test loss (-ELBO/obs) = 1806.7903
+  -> nuevo mejor test loss (1806.7903), guardado en vae_best.pt
+epoch  11  train loss (-ELBO/obs) = 1675.4235  test loss (-ELBO/obs) = 1793.2481
+  -> nuevo mejor test loss (1793.2481), guardado en vae_best.pt
+epoch  12  train loss (-ELBO/obs) = 1665.3432  test loss (-ELBO/obs) = 1781.8644
+  -> nuevo mejor test loss (1781.8644), guardado en vae_best.pt
+epoch  13  train loss (-ELBO/obs) = 1656.3699  test loss (-ELBO/obs) = 1772.9298
+  -> nuevo mejor test loss (1772.9298), guardado en vae_best.pt
+epoch  14  train loss (-ELBO/obs) = 1648.7613  test loss (-ELBO/obs) = 1766.0673
+  -> nuevo mejor test loss (1766.0673), guardado en vae_best.pt
+epoch  15  train loss (-ELBO/obs) = 1641.1317  test loss (-ELBO/obs) = 1758.4874
+  -> nuevo mejor test loss (1758.4874), guardado en vae_best.pt
+epoch  16  train loss (-ELBO/obs) = 1634.0870  test loss (-ELBO/obs) = 1750.4753
+  -> nuevo mejor test loss (1750.4753), guardado en vae_best.pt
+epoch  17  train loss (-ELBO/obs) = 1627.2792  test loss (-ELBO/obs) = 1744.2404
+  -> nuevo mejor test loss (1744.2404), guardado en vae_best.pt
+epoch  18  train loss (-ELBO/obs) = 1620.8852  test loss (-ELBO/obs) = 1737.8282
+  -> nuevo mejor test loss (1737.8282), guardado en vae_best.pt
+epoch  19  train loss (-ELBO/obs) = 1614.7883  test loss (-ELBO/obs) = 1733.8545
+  -> nuevo mejor test loss (1733.8545), guardado en vae_best.pt
+epoch  20  train loss (-ELBO/obs) = 1610.1910  test loss (-ELBO/obs) = 1728.0908
+  -> nuevo mejor test loss (1728.0908), guardado en vae_best.pt
+epoch  21  train loss (-ELBO/obs) = 1604.4778  test loss (-ELBO/obs) = 1723.5346
+  -> nuevo mejor test loss (1723.5346), guardado en vae_best.pt
+epoch  22  train loss (-ELBO/obs) = 1599.6517  test loss (-ELBO/obs) = 1719.6232
+  -> nuevo mejor test loss (1719.6232), guardado en vae_best.pt
+epoch  23  train loss (-ELBO/obs) = 1594.9560  test loss (-ELBO/obs) = 1715.4217
+  -> nuevo mejor test loss (1715.4217), guardado en vae_best.pt
+epoch  24  train loss (-ELBO/obs) = 1590.7455  test loss (-ELBO/obs) = 1711.9221
+  -> nuevo mejor test loss (1711.9221), guardado en vae_best.pt
+epoch  25  train loss (-ELBO/obs) = 1586.5462  test loss (-ELBO/obs) = 1708.7339
+  -> nuevo mejor test loss (1708.7339), guardado en vae_best.pt
+epoch  26  train loss (-ELBO/obs) = 1582.6299  test loss (-ELBO/obs) = 1705.5832
+  -> nuevo mejor test loss (1705.5832), guardado en vae_best.pt
+epoch  27  train loss (-ELBO/obs) = 1579.0469  test loss (-ELBO/obs) = 1703.3077
+  -> nuevo mejor test loss (1703.3077), guardado en vae_best.pt
+epoch  28  train loss (-ELBO/obs) = 1575.6014  test loss (-ELBO/obs) = 1700.1402
+  -> nuevo mejor test loss (1700.1402), guardado en vae_best.pt
+epoch  29  train loss (-ELBO/obs) = 1572.2450  test loss (-ELBO/obs) = 1697.9433
+  -> nuevo mejor test loss (1697.9433), guardado en vae_best.pt
+epoch  30  train loss (-ELBO/obs) = 1569.2707  test loss (-ELBO/obs) = 1695.2158
+  -> nuevo mejor test loss (1695.2158), guardado en vae_best.pt
+epoch  31  train loss (-ELBO/obs) = 1566.0590  test loss (-ELBO/obs) = 1693.0978
+  -> nuevo mejor test loss (1693.0978), guardado en vae_best.pt
+epoch  32  train loss (-ELBO/obs) = 1563.1460  test loss (-ELBO/obs) = 1691.7095
+  -> nuevo mejor test loss (1691.7095), guardado en vae_best.pt
+epoch  33  train loss (-ELBO/obs) = 1560.3903  test loss (-ELBO/obs) = 1689.3215
+  -> nuevo mejor test loss (1689.3215), guardado en vae_best.pt
+epoch  34  train loss (-ELBO/obs) = 1557.7199  test loss (-ELBO/obs) = 1687.8075
+  -> nuevo mejor test loss (1687.8075), guardado en vae_best.pt
+epoch  35  train loss (-ELBO/obs) = 1555.3593  test loss (-ELBO/obs) = 1685.9621
+  -> nuevo mejor test loss (1685.9621), guardado en vae_best.pt
+epoch  36  train loss (-ELBO/obs) = 1552.9115  test loss (-ELBO/obs) = 1684.6433
+  -> nuevo mejor test loss (1684.6433), guardado en vae_best.pt
+epoch  37  train loss (-ELBO/obs) = 1550.5135  test loss (-ELBO/obs) = 1683.3727
+  -> nuevo mejor test loss (1683.3727), guardado en vae_best.pt
+epoch  38  train loss (-ELBO/obs) = 1548.2145  test loss (-ELBO/obs) = 1682.2928
+  -> nuevo mejor test loss (1682.2928), guardado en vae_best.pt
+epoch  39  train loss (-ELBO/obs) = 1546.1839  test loss (-ELBO/obs) = 1680.8865
+  -> nuevo mejor test loss (1680.8865), guardado en vae_best.pt
+epoch  40  train loss (-ELBO/obs) = 1544.3119  test loss (-ELBO/obs) = 1679.9916
+  -> nuevo mejor test loss (1679.9916), guardado en vae_best.pt
+epoch  41  train loss (-ELBO/obs) = 1542.7209  test loss (-ELBO/obs) = 1679.3039
+  -> nuevo mejor test loss (1679.3039), guardado en vae_best.pt
+epoch  42  train loss (-ELBO/obs) = 1541.1341  test loss (-ELBO/obs) = 1678.4951
+  -> nuevo mejor test loss (1678.4951), guardado en vae_best.pt
+epoch  43  train loss (-ELBO/obs) = 1539.4770  test loss (-ELBO/obs) = 1678.1631
+  -> nuevo mejor test loss (1678.1631), guardado en vae_best.pt
+epoch  44  train loss (-ELBO/obs) = 1538.1265  test loss (-ELBO/obs) = 1677.5135
+  -> nuevo mejor test loss (1677.5135), guardado en vae_best.pt
+epoch  45  train loss (-ELBO/obs) = 1536.8383  test loss (-ELBO/obs) = 1676.6804
+  -> nuevo mejor test loss (1676.6804), guardado en vae_best.pt
+epoch  46  train loss (-ELBO/obs) = 1535.4604  test loss (-ELBO/obs) = 1676.1546
+  -> nuevo mejor test loss (1676.1546), guardado en vae_best.pt
+epoch  47  train loss (-ELBO/obs) = 1534.3648  test loss (-ELBO/obs) = 1675.3788
+  -> nuevo mejor test loss (1675.3788), guardado en vae_best.pt
+epoch  48  train loss (-ELBO/obs) = 1532.9951  test loss (-ELBO/obs) = 1674.9955
+  -> nuevo mejor test loss (1674.9955), guardado en vae_best.pt
+epoch  49  train loss (-ELBO/obs) = 1531.8817  test loss (-ELBO/obs) = 1674.5894
+  -> nuevo mejor test loss (1674.5894), guardado en vae_best.pt
+epoch  50  train loss (-ELBO/obs) = 1530.8472  test loss (-ELBO/obs) = 1673.9492
+  -> nuevo mejor test loss (1673.9492), guardado en vae_best.pt
+epoch  51  train loss (-ELBO/obs) = 1529.8280  test loss (-ELBO/obs) = 1673.6568
+  -> nuevo mejor test loss (1673.6568), guardado en vae_best.pt
+epoch  52  train loss (-ELBO/obs) = 1528.9567  test loss (-ELBO/obs) = 1673.0724
+  -> nuevo mejor test loss (1673.0724), guardado en vae_best.pt
+epoch  53  train loss (-ELBO/obs) = 1528.1394  test loss (-ELBO/obs) = 1673.7076
+epoch  54  train loss (-ELBO/obs) = 1527.1383  test loss (-ELBO/obs) = 1672.8560
+  -> nuevo mejor test loss (1672.8560), guardado en vae_best.pt
+epoch  55  train loss (-ELBO/obs) = 1526.0922  test loss (-ELBO/obs) = 1672.5769
+  -> nuevo mejor test loss (1672.5769), guardado en vae_best.pt
+epoch  56  train loss (-ELBO/obs) = 1525.1659  test loss (-ELBO/obs) = 1672.4080
+  -> nuevo mejor test loss (1672.4080), guardado en vae_best.pt
+epoch  57  train loss (-ELBO/obs) = 1524.3898  test loss (-ELBO/obs) = 1672.5600
+epoch  58  train loss (-ELBO/obs) = 1523.6610  test loss (-ELBO/obs) = 1671.8310
+  -> nuevo mejor test loss (1671.8310), guardado en vae_best.pt
+epoch  59  train loss (-ELBO/obs) = 1522.9798  test loss (-ELBO/obs) = 1671.6375
+  -> nuevo mejor test loss (1671.6375), guardado en vae_best.pt
+epoch  60  train loss (-ELBO/obs) = 1522.2862  test loss (-ELBO/obs) = 1671.4802
+  -> nuevo mejor test loss (1671.4802), guardado en vae_best.pt
+epoch  61  train loss (-ELBO/obs) = 1521.5759  test loss (-ELBO/obs) = 1671.1701
+  -> nuevo mejor test loss (1671.1701), guardado en vae_best.pt
+epoch  62  train loss (-ELBO/obs) = 1520.9686  test loss (-ELBO/obs) = 1670.8164
+  -> nuevo mejor test loss (1670.8164), guardado en vae_best.pt
+epoch  63  train loss (-ELBO/obs) = 1520.4474  test loss (-ELBO/obs) = 1670.7057
+  -> nuevo mejor test loss (1670.7057), guardado en vae_best.pt
+epoch  64  train loss (-ELBO/obs) = 1519.9649  test loss (-ELBO/obs) = 1670.4282
+  -> nuevo mejor test loss (1670.4282), guardado en vae_best.pt
+epoch  65  train loss (-ELBO/obs) = 1519.5685  test loss (-ELBO/obs) = 1670.2947
+  -> nuevo mejor test loss (1670.2947), guardado en vae_best.pt
+epoch  66  train loss (-ELBO/obs) = 1519.1180  test loss (-ELBO/obs) = 1670.3760
+epoch  67  train loss (-ELBO/obs) = 1518.7633  test loss (-ELBO/obs) = 1670.1424
+  -> nuevo mejor test loss (1670.1424), guardado en vae_best.pt
+epoch  68  train loss (-ELBO/obs) = 1518.4066  test loss (-ELBO/obs) = 1669.9358
+  -> nuevo mejor test loss (1669.9358), guardado en vae_best.pt
+epoch  69  train loss (-ELBO/obs) = 1517.9877  test loss (-ELBO/obs) = 1669.9242
+  -> nuevo mejor test loss (1669.9242), guardado en vae_best.pt
+epoch  70  train loss (-ELBO/obs) = 1517.6675  test loss (-ELBO/obs) = 1669.8171
+  -> nuevo mejor test loss (1669.8171), guardado en vae_best.pt
+epoch  71  train loss (-ELBO/obs) = 1517.4005  test loss (-ELBO/obs) = 1669.7469
+  -> nuevo mejor test loss (1669.7469), guardado en vae_best.pt
+epoch  72  train loss (-ELBO/obs) = 1517.1000  test loss (-ELBO/obs) = 1669.6442
+  -> nuevo mejor test loss (1669.6442), guardado en vae_best.pt
+epoch  73  train loss (-ELBO/obs) = 1516.8044  test loss (-ELBO/obs) = 1669.5437
+  -> nuevo mejor test loss (1669.5437), guardado en vae_best.pt
+epoch  74  train loss (-ELBO/obs) = 1516.5398  test loss (-ELBO/obs) = 1669.8140
+epoch  75  train loss (-ELBO/obs) = 1516.3500  test loss (-ELBO/obs) = 1669.4609
+  -> nuevo mejor test loss (1669.4609), guardado en vae_best.pt
+epoch  76  train loss (-ELBO/obs) = 1516.0473  test loss (-ELBO/obs) = 1669.3442
+  -> nuevo mejor test loss (1669.3442), guardado en vae_best.pt
+epoch  77  train loss (-ELBO/obs) = 1515.8098  test loss (-ELBO/obs) = 1669.4429
+epoch  78  train loss (-ELBO/obs) = 1515.6048  test loss (-ELBO/obs) = 1669.3588
+epoch  79  train loss (-ELBO/obs) = 1515.4175  test loss (-ELBO/obs) = 1669.2729
+  -> nuevo mejor test loss (1669.2729), guardado en vae_best.pt
+epoch  80  train loss (-ELBO/obs) = 1515.2553  test loss (-ELBO/obs) = 1669.2920
+epoch  81  train loss (-ELBO/obs) = 1515.0558  test loss (-ELBO/obs) = 1669.2920
+epoch  82  train loss (-ELBO/obs) = 1514.8902  test loss (-ELBO/obs) = 1669.2584
+  -> nuevo mejor test loss (1669.2584), guardado en vae_best.pt
+epoch  83  train loss (-ELBO/obs) = 1514.7537  test loss (-ELBO/obs) = 1669.1027
+  -> nuevo mejor test loss (1669.1027), guardado en vae_best.pt
+epoch  84  train loss (-ELBO/obs) = 1514.5896  test loss (-ELBO/obs) = 1669.1581
+epoch  85  train loss (-ELBO/obs) = 1514.4746  test loss (-ELBO/obs) = 1669.1396
+epoch  86  train loss (-ELBO/obs) = 1514.3096  test loss (-ELBO/obs) = 1669.2171
+epoch  87  train loss (-ELBO/obs) = 1514.1830  test loss (-ELBO/obs) = 1669.2273
+epoch  88  train loss (-ELBO/obs) = 1514.0367  test loss (-ELBO/obs) = 1669.1788
+epoch  89  train loss (-ELBO/obs) = 1513.9687  test loss (-ELBO/obs) = 1669.3111
+epoch  90  train loss (-ELBO/obs) = 1513.8522  test loss (-ELBO/obs) = 1669.2415
+epoch  91  train loss (-ELBO/obs) = 1513.7581  test loss (-ELBO/obs) = 1669.1827
+epoch  92  train loss (-ELBO/obs) = 1513.6639  test loss (-ELBO/obs) = 1669.1481
+epoch  93  train loss (-ELBO/obs) = 1513.5716  test loss (-ELBO/obs) = 1669.1824
+epoch  94  train loss (-ELBO/obs) = 1513.4713  test loss (-ELBO/obs) = 1669.0794
+  -> nuevo mejor test loss (1669.0794), guardado en vae_best.pt
+epoch  95  train loss (-ELBO/obs) = 1513.4012  test loss (-ELBO/obs) = 1669.0515
+  -> nuevo mejor test loss (1669.0515), guardado en vae_best.pt
+epoch  96  train loss (-ELBO/obs) = 1513.3218  test loss (-ELBO/obs) = 1669.0628
+epoch  97  train loss (-ELBO/obs) = 1513.2656  test loss (-ELBO/obs) = 1669.0014
+  -> nuevo mejor test loss (1669.0014), guardado en vae_best.pt
+epoch  98  train loss (-ELBO/obs) = 1513.1974  test loss (-ELBO/obs) = 1668.9205
+  -> nuevo mejor test loss (1668.9205), guardado en vae_best.pt
+epoch  99  train loss (-ELBO/obs) = 1513.1094  test loss (-ELBO/obs) = 1668.8675
+  -> nuevo mejor test loss (1668.8675), guardado en vae_best.pt
+epoch 100  train loss (-ELBO/obs) = 1513.1146  test loss (-ELBO/obs) = 1669.0394
+Checkpoints en /home/jproanio/Desktop/Modelo_VAE/checkpoints (vae_last.pt, vae_best.pt)
+Historial de perdida: /home/jproanio/Desktop/Modelo_VAE/checkpoints/loss_history.csv
+Grafico de perdida: /home/jproanio/Desktop/Modelo_VAE/checkpoints/loss_curve.png

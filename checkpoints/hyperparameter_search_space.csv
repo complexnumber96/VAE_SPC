@@ -1,0 +1,6 @@
+hyperparameter,type,range,note
+z_dim,int,"[2, 64]",techo absoluto para forzar un cuello de botella real (ver model.py / optuna_search.py)
+hidden_dim,int,"[z_dim + 1, 256]",restringido a z_dim < hidden_dim < input_dim
+beta,float,"[0.5, 2.0]",techo tambien acotado -- beta alto + decoder chico colapsa el posterior
+lr,float (log-uniform),"[1e-5, 1e-2]",
+batch_size,categorical,"{128, 256, 512, 1024, 5000}",
