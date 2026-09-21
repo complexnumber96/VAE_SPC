@@ -260,22 +260,22 @@ $$
 
 The $\beta$-VAE objective can be represented as:
 
-\[
+$$
 \mathcal{L}_{\beta}
 =
-\mathbb{E}_{q_\phi(z|x)}
-[
-\log p_\theta(x|z)
-]
+\mathbb{E}_{q_{\phi}(z \mid x)}
+\left[
+\log p_{\theta}(x \mid z)
+\right]
 -
 \beta
-D_{KL}
+D_{\mathrm{KL}}
 \left(
-q_\phi(z|x)
-\parallel
+q_{\phi}(z \mid x)
+\,\|\, 
 p(z)
 \right)
-\]
+$$
 
 where \(\beta\) controls the trade-off between reconstruction fidelity and latent-space regularization.
 
