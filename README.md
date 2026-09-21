@@ -258,9 +258,9 @@ z = \mu + \sigma \odot \epsilon,
 \epsilon \sim \mathcal{N}(0,I)
 $$
 
-The β-VAE objective can be represented as:
+The $\beta$-VAE objective can be represented as:
 
-$$
+\[
 \mathcal{L}_{\beta}
 =
 \mathbb{E}_{q_\phi(z|x)}
@@ -275,7 +275,7 @@ q_\phi(z|x)
 \parallel
 p(z)
 \right)
-$$
+\]
 
 where \(\beta\) controls the trade-off between reconstruction fidelity and latent-space regularization.
 
